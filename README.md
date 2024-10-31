@@ -1,5 +1,17 @@
-# Test
-testtestetsetse
-https://github.com/TaratipT/testweb.io/blob/main/istockphoto-184276818-612x612.jpg?raw=true
+# ที่มาและความสำคัญ
+โปรเจกต์นี้มีวัตถุประสงค์เพื่อแก้ไขปัญหาการเสียเวลาในการค้นหาที่จอดรถเมื่อพื้นที่จอดเต็มแล้ว โดยระบบสามารถแจ้งจำนวนที่จอดรถที่ยังว่างอยู่ ทำให้ผู้ใช้สามารถเข้าจอดได้อย่างมีประสิทธิภาพ โดยไม่เสียเวลาในกรณีที่ที่จอดเต็ม และยังมีการบันทึกประวัติการเข้าออกของรถที่เข้าจอดผ่านเว็บไซต์
 
+# Video Presentation Link
+- 
+
+# Project Website
+- https://github.com/TaratipT/testweb.io/blob/main/istockphoto-184276818-612x612.jpg?raw=true
+
+# Poster
 ![istockphoto-184276818-612x612](https://github.com/user-attachments/assets/723f50f8-73c0-455b-bcae-eec472be53ea)
+
+# รายชื่อสมาชิก
+- 66070086 นาย ธราธิป เตชะธาดาเดช
+- 66070094 นาย นพรุจ ธะสุนทร
+- 66070098 นาย นรเศรษฐ์ บุปผา
+- 66070107 นาย นิจิตพงศ์ ทิพย์รักษ์
