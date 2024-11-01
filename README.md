@@ -17,8 +17,6 @@
 ## Project Website
 - https://github.com/TaratipT/testweb.io/blob/main/istockphoto-184276818-612x612.jpg?raw=true
 
-## Poster
-
 ## รายชื่อสมาชิก
 - 66070086 นาย ธราธิป เตชะธาดาเดช
 - 66070094 นาย นพรุจ ธะสุนทร
