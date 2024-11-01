@@ -1,5 +1,5 @@
 # Physical Computing Project 2024 - IT KMITL
-![istockphoto-184276818-612x612](https://github.com/user-attachments/assets/723f50f8-73c0-455b-bcae-eec472be53ea)
+[Poster4.pdf](https://github.com/user-attachments/files/17601750/Poster4.pdf)
 ## ที่มาและความสำคัญ
 โปรเจกต์นี้มีวัตถุประสงค์เพื่อแก้ไขปัญหาการเสียเวลาในการค้นหาที่จอดรถเมื่อพื้นที่จอดเต็มแล้ว โดยระบบสามารถแจ้งจำนวนที่จอดรถที่ยังว่างอยู่ ทำให้ผู้ใช้สามารถเข้าจอดได้อย่างมีประสิทธิภาพ โดยไม่เสียเวลาในกรณีที่ที่จอดเต็ม และยังมีการบันทึกประวัติการเข้าออกของรถที่เข้าจอดผ่านเว็บไซต์
 
@@ -12,10 +12,10 @@
 แสดงจำนวนพื้นที่จอดรถที่ว่างและประวัติการเข้า-ออกของยานพาหนะบนเว็บไซต์แบบเรียลไทม์
 
 ## Video Presentation Link
-- 
+- https://youtu.be/3RdS_E10Tx0
 
 ## Project Website
-- https://github.com/TaratipT/testweb.io/blob/main/istockphoto-184276818-612x612.jpg?raw=true
+- 
 
 ## รายชื่อสมาชิก
 - 66070086 นาย ธราธิป เตชะธาดาเดช
